@@ -38,7 +38,7 @@ npm install -g ganache-cli
 git clone https://github.com/juliocslima/erc20-brownie.git
 ```
 
-2. Run a script
+2. Run a script.
 
 ```
 brownie run scripts/1_deploy_token.sol
